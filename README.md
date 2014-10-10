@@ -10,6 +10,7 @@ Install the following tools before you begin:
 
 + VirtualBox [virtualbox.org/wiki/downloads](https://www.virtualbox.org/wiki/Downloads "virtualbox.org")
 + Vagrant [vagrantup.com/downloads.html](http://www.vagrantup.com/downloads.html "vagrantup.com")
++ [vagrant-omnibus](https://github.com/opscode/vagrant-omnibus) plug-in
 
 ### Start Vagrant ###
 
