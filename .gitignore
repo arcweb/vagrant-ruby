@@ -29,3 +29,9 @@ config/secrets.yml
 /vendor/assets/bower_components
 *.bowerrc
 bower.json
+
+# vagrant
+.vagrant
+
+# Mac OS
+.DS_Store
